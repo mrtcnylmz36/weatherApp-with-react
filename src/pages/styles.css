@@ -1,0 +1,13 @@
+.home-container {
+  width: 100%;
+}
+
+.home-container h1 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+form {
+  width: 100%;
+}
